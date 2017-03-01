@@ -1,0 +1,22 @@
+{
+  "name": "curie-web-ble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ecstatic --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilvox/curie-web-ble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilvox/curie-web-ble/issues"
+  },
+  "homepage": "https://github.com/virgilvox/curie-web-ble#readme",
+  "devDependencies": {
+    "ecstatic": "^1.4.0"
+  }
+}
